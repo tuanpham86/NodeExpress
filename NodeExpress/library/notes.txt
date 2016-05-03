@@ -30,4 +30,13 @@ https://github.com/David5i6/Brackets-Delkos-Dark-Theme
     Handlebars
     EJS
 5. Routing
+    BookList
+    SingleBook
+6. Database
+    mongo install-start-hotfix
+    Insert data
+    find
+    findOne({_id: id})
+    mongoose?
+    
 
