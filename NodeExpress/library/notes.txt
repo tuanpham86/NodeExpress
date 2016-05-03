@@ -1,0 +1,33 @@
+
+Windows Command Line - Create empty file
+fsutil file createnew filename  requiredSize
+	C:\>fsutil file createnew emptyfile.txt 0
+	File C:\emptyfile.txt is created
+	
+	OR using
+	C:\>type nul > empty.txt
+	
+	
+https://github.com/David5i6/Brackets-Delkos-Dark-Theme
+
+1. Getting started
+    Commandline
+    IDE
+    Configuring Brackets
+    NPM (backend)
+2. Express
+    Simple Route
+    Bootstrap
+    Bower - package manager (front end - bootstrap, font-awesome, angular...)
+3. Gulp - Build system automating tasks
+    JSHint
+    JSCS
+    Wiredep
+    Gulp-inject
+    Nodemon
+4. Templating Engines
+    Jade
+    Handlebars
+    EJS
+5. Routing
+
