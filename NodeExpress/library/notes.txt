@@ -39,4 +39,8 @@ https://github.com/David5i6/Brackets-Delkos-Dark-Theme
     findOne({_id: id})
     mongoose?
     
+8. goodreads
+    key: 635nh8HTYqI6LCthDy9kg
+    secret: s0Yh428dor1XGfTqXhsdOlSm47xyaEIgTWa8Idco1gY
+    
 
